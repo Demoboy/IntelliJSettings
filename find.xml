@@ -3,7 +3,7 @@
     <option name="customScope" value="File '.../app/AppKernel.php - [reviveit]'" />
     <option name="defaultScopeName" value="File '.../app/AppKernel.php - [reviveit]'" />
     <option name="SEARCH_SCOPE" value="File '.../app/AppKernel.php - [reviveit]'" />
-    <option name="FILE_MASK" value="*Controller.php" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,7 +15,6 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
-      <mask>*Controller.php</mask>
     </recentFileMasks>
   </component>
 </application>
