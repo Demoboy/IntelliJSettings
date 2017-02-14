@@ -908,6 +908,10 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="selectVariableNameWithoutDollar" value="true" />
+    <option name="smartFunctionParametersCompletion" value="true" />
+  </component>
   <component name="PhpUnit">
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="fd8f5e30-b90c-4b96-a783-2b5e6c73812c" load_method="PHPUNIT_PHAR" custom_loader_path="" phpunit_phar_path="/home/vagrant/.config/composer/vendor/bin/phpunit" />
