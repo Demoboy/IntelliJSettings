@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="dev-env" type="Bash" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="dev-env" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="crx" type="PLAIN_TEXT" />
     </extensionMap>
