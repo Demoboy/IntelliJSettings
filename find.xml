@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[ironman] - ...\dev\vagrant'" />
-    <option name="defaultScopeName" value="Directory '[ironman] - ...\dev\vagrant'" />
+    <option name="customScope" value="Directory '.../src/KanbanBundle - [reviveit]'" />
+    <option name="defaultScopeName" value="Directory '.../src/KanbanBundle - [reviveit]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[ironman] - ...\dev\vagrant'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src/KanbanBundle - [reviveit]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
