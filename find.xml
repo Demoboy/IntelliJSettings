@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/ER2/InventoryBundle/Controller/InventoryController.php - [reviveit]'" />
-    <option name="defaultScopeName" value="File '.../src/ER2/InventoryBundle/Controller/InventoryController.php - [reviveit]'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../src/ER2/InventoryBundle/Controller/InventoryController.php - [reviveit]'" />
+    <option name="customScope" value="File '.../src/ER2/SaleBundle/Controller/InvoiceController.php - [reviveit]'" />
+    <option name="defaultScopeName" value="File '.../src/ER2/SaleBundle/Controller/InvoiceController.php - [reviveit]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/ER2/SaleBundle/Controller/InvoiceController.php - [reviveit]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
