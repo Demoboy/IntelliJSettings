@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/ER2/SaleBundle/Controller/InvoiceController.php - [reviveit]'" />
-    <option name="defaultScopeName" value="File '.../src/ER2/SaleBundle/Controller/InvoiceController.php - [reviveit]'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/ER2/SaleBundle/Controller/InvoiceController.php - [reviveit]'" />
+    <option name="customScope" value="Directory '.../src/ER2/AppBundle - [reviveit]'" />
+    <option name="defaultScopeName" value="Directory '.../src/ER2/AppBundle - [reviveit]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src/ER2/AppBundle - [reviveit]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
