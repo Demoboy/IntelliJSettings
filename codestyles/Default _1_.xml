@@ -39,6 +39,7 @@
     </formatting-settings>
   </DBN-SQL>
   <codeStyleSettings language="PHP">
+    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <arrangement>
       <groups>
         <group>
