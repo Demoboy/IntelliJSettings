@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="/vagrant" />
     </exec>
   </tool>
+  <tool name="Mysql Import" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEFAULT_SDK">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/mysql" />
+      <option name="PARAMETERS" value="-u root --password=&quot;password&quot; $Prompt$ &lt; $FileRelativePath$" />
+      <option name="WORKING_DIRECTORY" value="/vagrant" />
+    </exec>
+  </tool>
 </toolSet>
