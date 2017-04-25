@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[iper] - .../src/IPER/JobBundle/Entity/CallLog.php'" />
-    <option name="defaultScopeName" value="File '[iper] - .../src/IPER/JobBundle/Entity/CallLog.php'" />
-    <option name="SEARCH_SCOPE" value="File '[iper] - .../src/IPER/JobBundle/Entity/CallLog.php'" />
+    <option name="customScope" value="File '[iper] - .../src/IPER/JobBundle/Entity/City.php'" />
+    <option name="defaultScopeName" value="File '[iper] - .../src/IPER/JobBundle/Entity/City.php'" />
+    <option name="SEARCH_SCOPE" value="File '[iper] - .../src/IPER/JobBundle/Entity/City.php'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
