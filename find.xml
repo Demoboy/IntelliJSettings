@@ -3,6 +3,7 @@
     <option name="customScope" value="File '[iper] - .../src/IPER/JobBundle/Controller/JobController.php'" />
     <option name="defaultScopeName" value="File '[iper] - .../src/IPER/JobBundle/Controller/JobController.php'" />
     <option name="SEARCH_SCOPE" value="File '[iper] - .../src/IPER/JobBundle/Controller/JobController.php'" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
