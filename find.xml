@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[iper] - .../src/IPER/JobBundle/Entity/Permit/BasePermit.php'" />
-    <option name="defaultScopeName" value="File '[iper] - .../src/IPER/JobBundle/Entity/Permit/BasePermit.php'" />
-    <option name="SEARCH_SCOPE" value="File '[iper] - .../src/IPER/JobBundle/Entity/Permit/BasePermit.php'" />
+    <option name="customScope" value="Directory '[iper] - .../src/IPER'" />
+    <option name="defaultScopeName" value="Directory '[iper] - .../src/IPER'" />
+    <option name="SEARCH_SCOPE" value="Directory '[iper] - .../src/IPER'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
