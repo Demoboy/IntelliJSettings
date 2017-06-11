@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[iper] - .../src/IPER/JobBundle/Controller/JobController.php'" />
-    <option name="defaultScopeName" value="File '[iper] - .../src/IPER/JobBundle/Controller/JobController.php'" />
+    <option name="customScope" value="Directory '[iper] - .../src/IPER/CheersApiBundle'" />
+    <option name="defaultScopeName" value="Directory '[iper] - .../src/IPER/CheersApiBundle'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[iper] - .../src/IPER/JobBundle/Controller/JobController.php'" />
+    <option name="SEARCH_SCOPE" value="Directory '[iper] - .../src/IPER/CheersApiBundle'" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
