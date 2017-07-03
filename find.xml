@@ -30,6 +30,8 @@
       <mask>*Ty.php</mask>
       <mask>*Type.php</mask>
       <mask>*.php</mask>
+      <mask>*.tw</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
