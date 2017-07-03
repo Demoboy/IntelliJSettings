@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Type.php" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -27,10 +27,10 @@
       <mask>*Controller.php</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.php</mask>
       <mask>*T.php</mask>
       <mask>*Ty.php</mask>
       <mask>*Type.php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
