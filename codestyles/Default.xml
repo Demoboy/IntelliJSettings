@@ -43,30 +43,6 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
-  <DBN-PSQL>
-    <case-options enabled="false">
-      <option name="KEYWORD_CASE" value="lower" />
-      <option name="FUNCTION_CASE" value="lower" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="lower" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="false" />
-  </DBN-PSQL>
-  <DBN-SQL>
-    <case-options enabled="false">
-      <option name="KEYWORD_CASE" value="lower" />
-      <option name="FUNCTION_CASE" value="lower" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="lower" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="false">
-      <option name="STATEMENT_SPACING" value="one_line" />
-      <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
-      <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
-    </formatting-settings>
-  </DBN-SQL>
   <codeStyleSettings language="PHP">
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
@@ -88,6 +64,10 @@
       <groups>
         <group>
           <type>GETTERS_AND_SETTERS</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>OVERRIDDEN_METHODS</type>
           <order>KEEP</order>
         </group>
       </groups>
@@ -123,6 +103,17 @@
                 <METHOD>true</METHOD>
                 <PUBLIC>true</PUBLIC>
                 <visibility />
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section start_comment="//Getters" end_comment="//end Getters">
+          <rule>
+            <match>
+              <AND>
+                <NAME>get[\\w]*</NAME>
+                <PUBLIC>true</PUBLIC>
               </AND>
             </match>
             <order>BY_NAME</order>
