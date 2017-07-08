@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[iper] - ...\src\IPER\JobBundle\Controller\JobController.php'" />
-    <option name="defaultScopeName" value="File '[iper] - ...\src\IPER\JobBundle\Controller\JobController.php'" />
-    <option name="SEARCH_SCOPE" value="File '[iper] - ...\src\IPER\JobBundle\Controller\JobController.php'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,8 +18,22 @@
       <mask>Ty.php</mask>
       <mask>Typ.php</mask>
       <mask>Type.php</mask>
-      <mask>*Type.php</mask>
+      <mask>*C.php</mask>
+      <mask>*Contro.php</mask>
+      <mask>*Control.php</mask>
+      <mask>*Controller.php</mask>
+      <mask>*.</mask>
+      <mask>*T.php</mask>
+      <mask>*Ty.php</mask>
       <mask>*.php</mask>
+      <mask>*.tw</mask>
+      <mask>*.twig</mask>
+      <mask>*</mask>
+      <mask>*T</mask>
+      <mask>*Ty</mask>
+      <mask>*Type</mask>
+      <mask>*Type.</mask>
+      <mask>*Type.php</mask>
     </recentFileMasks>
   </component>
 </application>
