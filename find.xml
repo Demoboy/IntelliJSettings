@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[reviveit] - .../deploy.php'" />
-    <option name="defaultScopeName" value="File '[reviveit] - .../deploy.php'" />
-    <option name="SEARCH_SCOPE" value="File '[reviveit] - .../deploy.php'" />
+    <option name="customScope" value="File '[reviveit] - .../src/TdatBundle/Entity/Computer.php'" />
+    <option name="defaultScopeName" value="File '[reviveit] - .../src/TdatBundle/Entity/Computer.php'" />
+    <option name="SEARCH_SCOPE" value="File '[reviveit] - .../src/TdatBundle/Entity/Computer.php'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
