@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[reviveit] - .../src/ER2/CustomerInventoryBundle/Form/Type/CustomerInventoryType.php'" />
-    <option name="defaultScopeName" value="File '[reviveit] - .../src/ER2/CustomerInventoryBundle/Form/Type/CustomerInventoryType.php'" />
-    <option name="SEARCH_SCOPE" value="File '[reviveit] - .../src/ER2/CustomerInventoryBundle/Form/Type/CustomerInventoryType.php'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -22,18 +24,18 @@
       <mask>*Contro.php</mask>
       <mask>*Control.php</mask>
       <mask>*Controller.php</mask>
-      <mask>*.</mask>
       <mask>*T.php</mask>
       <mask>*Ty.php</mask>
       <mask>*.php</mask>
-      <mask>*.tw</mask>
-      <mask>*.twig</mask>
-      <mask>*</mask>
       <mask>*T</mask>
       <mask>*Ty</mask>
       <mask>*Type</mask>
       <mask>*Type.</mask>
       <mask>*Type.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.tw</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
