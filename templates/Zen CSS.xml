@@ -1,0 +1,7 @@
+<templateSet group="Zen CSS">
+  <template name="bdl:n" value="border-left:none;" description="border-left:none;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>
