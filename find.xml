@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../src/AppBundle/SCObject/Dimension.php [reviveit]'" />
+    <option name="defaultScopeName" value="File '.../src/AppBundle/SCObject/Dimension.php [reviveit]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/AppBundle/SCObject/Dimension.php [reviveit]'" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
