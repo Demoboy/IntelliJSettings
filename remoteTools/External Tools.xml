@@ -2,7 +2,7 @@
   <tool name="PHP CS Fixer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT">
     <exec>
       <option name="COMMAND" value="/home/vagrant/.config/composer/vendor/bin/php-cs-fixer " />
-      <option name="PARAMETERS" value="fix $UnixSeparators$($FileDirRelativeToProjectRoot$) --rules=@Symfony" />
+      <option name="PARAMETERS" value="fix $UnixSeparators$$FileDirRelativeToProjectRoot$ --rules=@Symfony" />
       <option name="WORKING_DIRECTORY" value="/vagrant" />
     </exec>
   </tool>
