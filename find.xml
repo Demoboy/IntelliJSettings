@@ -3,18 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.md" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>.php</mask>
-      <mask>T.php</mask>
-      <mask>Ty.php</mask>
       <mask>Typ.php</mask>
       <mask>Type.php</mask>
       <mask>*C.php</mask>
@@ -34,6 +24,17 @@
       <mask>*T.php</mask>
       <mask>*Ty.php</mask>
       <mask>*Type.php</mask>
+      <mask>*Type.p!hp</mask>
+      <mask>*Type.p!*hp</mask>
+      <mask>*Type.p!*.hp</mask>
+      <mask>*Type.p!*.ndhp</mask>
+      <mask>*Type.p!*.nhp</mask>
+      <mask>hp</mask>
+      <mask>h</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*.</mask>
+      <mask>!*.md</mask>
     </recentFileMasks>
   </component>
 </application>
