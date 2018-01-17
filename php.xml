@@ -25,8 +25,8 @@
       <interpreter home="vagrant:///Users/kaelinjacobson/Dropbox/Websites/ironman/usr/bin/php" id="79645860-25a2-4467-b88f-4f4eeff3eb36" name="Ironman" debugger_id="php.debugger.XDebug">
         <remote_data VAGRANT_FOLDER="$USER_HOME$/Dropbox/Websites/ironman" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="" INITIALIZED="false" VALID="true" />
       </interpreter>
-      <interpreter home="vagrant://C:\Users\Kaelin\Dropbox\Websites\caa/usr/bin/php" id="cecb343b-2aa5-4b8c-9d22-8df51a27e625" name="CAA" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="C:\Users\Kaelin\Dropbox\Websites\caa" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="vagrant:///home/kaelin/Dropbox/Websites/reviveit/usr/bin/php" id="cecb343b-2aa5-4b8c-9d22-8df51a27e625" name="CAA" debugger_id="php.debugger.XDebug">
+        <remote_data VAGRANT_FOLDER="$USER_HOME$/Dropbox/Websites/reviveit" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="vagrant:///home/kaelin/Desktop/websocket/usr/bin/php" id="88d39545-8b98-46bd-aa04-1450c72d8152" name="Websocket" debugger_id="php.debugger.XDebug">
         <remote_data VAGRANT_FOLDER="$USER_HOME$/Desktop/websocket" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
