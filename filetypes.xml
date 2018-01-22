@@ -11,6 +11,7 @@
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping ext="neon" type="YAML" />
     </extensionMap>
