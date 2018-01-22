@@ -9,7 +9,7 @@
   <tool name="PHPStan" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT">
     <exec>
       <option name="COMMAND" value="vendor/phpstan/phpstan/bin/phpstan" />
-      <option name="PARAMETERS" value="analyse --level 5  -c phpstan.neon $UnixSeparators($FileDirRelativeToProjectRoot$)$" />
+      <option name="PARAMETERS" value="analyse --level max  -c phpstan.neon $UnixSeparators($FileDirRelativeToProjectRoot$)$" />
       <option name="WORKING_DIRECTORY" value="/vagrant" />
     </exec>
   </tool>
