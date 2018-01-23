@@ -1,28 +1,17 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src [reviveit]'" />
-    <option name="defaultScopeName" value="Directory '.../src [reviveit]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src [reviveit]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xlf" />
     <recentFileMasks>
-      <mask>Typ.php</mask>
-      <mask>Type.php</mask>
-      <mask>*C.php</mask>
-      <mask>*Contro.php</mask>
-      <mask>*Control.php</mask>
-      <mask>*Controller.php</mask>
-      <mask>*Ty</mask>
-      <mask>*.tw</mask>
       <mask>*.twig</mask>
       <mask>*T</mask>
       <mask>*Typ</mask>
       <mask>*Type</mask>
       <mask>*Type.</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.php</mask>
       <mask>*T.php</mask>
       <mask>*Ty.php</mask>
@@ -38,6 +27,16 @@
       <mask>!*</mask>
       <mask>!*.</mask>
       <mask>!*.md</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xlf~</mask>
+      <mask>*.xlff</mask>
+      <mask>*.xlif</mask>
+      <mask>*.xli</mask>
+      <mask>*.xl</mask>
+      <mask>*.xlf</mask>
     </recentFileMasks>
   </component>
 </application>
