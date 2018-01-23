@@ -1,8 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '.../src [reviveit]'" />
+    <option name="defaultScopeName" value="Directory '.../src [reviveit]'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src [reviveit]'" />
     <recentFileMasks>
       <mask>Typ.php</mask>
       <mask>Type.php</mask>
