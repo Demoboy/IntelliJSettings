@@ -1210,13 +1210,28 @@
         </phpinfo>
       </interpreter>
       <interpreter name="Revive IT">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php7.2" path_separator=":" remote_host="192.168.33.1" version="7.2.0-1+ubuntu16.04.1+deb.sury.org+1">
-          <additional_php_ini>/etc/php/7.2/cli/conf.d/10-mysqlnd.ini, /etc/php/7.2/cli/conf.d/10-opcache.ini, /etc/php/7.2/cli/conf.d/10-pdo.ini, /etc/php/7.2/cli/conf.d/15-xml.ini, /etc/php/7.2/cli/conf.d/20-bcmath.ini, /etc/php/7.2/cli/conf.d/20-calendar.ini, /etc/php/7.2/cli/conf.d/20-ctype.ini, /etc/php/7.2/cli/conf.d/20-curl.ini, /etc/php/7.2/cli/conf.d/20-dom.ini, /etc/php/7.2/cli/conf.d/20-exif.ini, /etc/php/7.2/cli/conf.d/20-fileinfo.ini, /etc/php/7.2/cli/conf.d/20-ftp.ini, /etc/php/7.2/cli/conf.d/20-gd.ini, /etc/php/7.2/cli/conf.d/20-gettext.ini, /etc/php/7.2/cli/conf.d/20-iconv.ini, /etc/php/7.2/cli/conf.d/20-imagick.ini, /etc/php/7.2/cli/conf.d/20-intl.ini, /etc/php/7.2/cli/conf.d/20-json.ini, /etc/php/7.2/cli/conf.d/20-mbstring.ini, /etc/php/7.2/cli/conf.d/20-mysqli.ini, /etc/php/7.2/cli/conf.d/20-pdo_mysql.ini, /etc/php/7.2/cli/conf.d/20-phar.ini, /etc/php/7.2/cli/conf.d/20-posix.ini, /etc/php/7.2/cli/conf.d/20-readline.ini, /etc/php/7.2/cli/conf.d/20-shmop.ini, /etc/php/7.2/cli/conf.d/20-simplexml.ini, /etc/php/7.2/cli/conf.d/20-sockets.ini, /etc/php/7.2/cli/conf.d/20-sysvmsg.ini, /etc/php/7.2/cli/conf.d/20-sysvsem.ini, /etc/php/7.2/cli/conf.d/20-sysvshm.ini, /etc/php/7.2/cli/conf.d/20-tokenizer.ini, /etc/php/7.2/cli/conf.d/20-wddx.ini, /etc/php/7.2/cli/conf.d/20-xmlreader.ini, /etc/php/7.2/cli/conf.d/20-xmlwriter.ini, /etc/php/7.2/cli/conf.d/20-xsl.ini, /etc/php/7.2/cli/conf.d/20-zip.ini, /etc/php/7.2/cli/conf.d/20-zmq.ini, /etc/php/7.2/cli/conf.d/99-overrides.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php7.2" path_separator=":" remote_host="192.168.140.2" version="7.2.1-1+ubuntu16.04.1+deb.sury.org+1">
+          <additional_php_ini>/etc/php/7.2/cli/conf.d/10-mysqlnd.ini, /etc/php/7.2/cli/conf.d/10-opcache.ini, /etc/php/7.2/cli/conf.d/10-pdo.ini, /etc/php/7.2/cli/conf.d/15-xml.ini, /etc/php/7.2/cli/conf.d/20-apcu.ini, /etc/php/7.2/cli/conf.d/20-apcu_bc.ini, /etc/php/7.2/cli/conf.d/20-bcmath.ini, /etc/php/7.2/cli/conf.d/20-calendar.ini, /etc/php/7.2/cli/conf.d/20-ctype.ini, /etc/php/7.2/cli/conf.d/20-curl.ini, /etc/php/7.2/cli/conf.d/20-dom.ini, /etc/php/7.2/cli/conf.d/20-exif.ini, /etc/php/7.2/cli/conf.d/20-fileinfo.ini, /etc/php/7.2/cli/conf.d/20-ftp.ini, /etc/php/7.2/cli/conf.d/20-gd.ini, /etc/php/7.2/cli/conf.d/20-gettext.ini, /etc/php/7.2/cli/conf.d/20-iconv.ini, /etc/php/7.2/cli/conf.d/20-imagick.ini, /etc/php/7.2/cli/conf.d/20-intl.ini, /etc/php/7.2/cli/conf.d/20-json.ini, /etc/php/7.2/cli/conf.d/20-mbstring.ini, /etc/php/7.2/cli/conf.d/20-mysqli.ini, /etc/php/7.2/cli/conf.d/20-pdo_mysql.ini, /etc/php/7.2/cli/conf.d/20-phar.ini, /etc/php/7.2/cli/conf.d/20-posix.ini, /etc/php/7.2/cli/conf.d/20-readline.ini, /etc/php/7.2/cli/conf.d/20-shmop.ini, /etc/php/7.2/cli/conf.d/20-simplexml.ini, /etc/php/7.2/cli/conf.d/20-sockets.ini, /etc/php/7.2/cli/conf.d/20-sysvmsg.ini, /etc/php/7.2/cli/conf.d/20-sysvsem.ini, /etc/php/7.2/cli/conf.d/20-sysvshm.ini, /etc/php/7.2/cli/conf.d/20-tokenizer.ini, /etc/php/7.2/cli/conf.d/20-wddx.ini, /etc/php/7.2/cli/conf.d/20-xmlreader.ini, /etc/php/7.2/cli/conf.d/20-xmlwriter.ini, /etc/php/7.2/cli/conf.d/20-xsl.ini, /etc/php/7.2/cli/conf.d/20-zip.ini, /etc/php/7.2/cli/conf.d/20-zmq.ini, /etc/php/7.2/cli/conf.d/99-overrides.ini</additional_php_ini>
           <configuration_file>/etc/php/7.2/cli/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
             <configuration_option name="allow_url_include" value="" />
+            <configuration_option name="apc.coredump_unmap" value="0" />
+            <configuration_option name="apc.enable_cli" value="0" />
+            <configuration_option name="apc.enabled" value="1" />
+            <configuration_option name="apc.entries_hint" value="4096" />
+            <configuration_option name="apc.gc_ttl" value="3600" />
+            <configuration_option name="apc.mmap_file_mask" value="" />
+            <configuration_option name="apc.preload_path" value="" />
+            <configuration_option name="apc.serializer" value="php" />
+            <configuration_option name="apc.shm_segments" value="1" />
+            <configuration_option name="apc.shm_size" value="32M" />
+            <configuration_option name="apc.slam_defense" value="1" />
+            <configuration_option name="apc.smart" value="0" />
+            <configuration_option name="apc.ttl" value="0" />
+            <configuration_option name="apc.use_request_time" value="1" />
+            <configuration_option name="apc.writable" value="/tmp" />
             <configuration_option name="arg_separator.input" value="&amp;" />
             <configuration_option name="arg_separator.output" value="&amp;" />
             <configuration_option name="assert.active" value="1" />
@@ -1457,6 +1472,8 @@
             <extension name="SPL" />
             <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
+            <extension name="apc" />
+            <extension name="apcu" />
             <extension name="bcmath" />
             <extension name="calendar" />
             <extension name="ctype" />
@@ -1513,6 +1530,7 @@
   <component name="PhpUnit">
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="fd8f5e30-b90c-4b96-a783-2b5e6c73812c" load_method="PHPUNIT_PHAR" custom_loader_path="" phpunit_phar_path="/home/vagrant/.config/composer/vendor/bin/phpunit" />
+      <phpunit_by_interpreter interpreter_id="9582c805-fe11-48ad-a665-51190c80d565" load_method="CUSTOM_LOADER" configuration_file_path="/vagrant/phpunit.xml" custom_loader_path="/vagrant/vendor/autloader.php" phpunit_phar_path="" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
