@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../tests/AppBundle/SellerCloud/SellerCloudTest.php [reviveit]'" />
-    <option name="defaultScopeName" value="File '.../tests/AppBundle/SellerCloud/SellerCloudTest.php [reviveit]'" />
-    <option name="SEARCH_SCOPE" value="File '.../tests/AppBundle/SellerCloud/SellerCloudTest.php [reviveit]'" />
-    <option name="FILE_MASK" value="*.xlf" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.twig</mask>
       <mask>*T</mask>
