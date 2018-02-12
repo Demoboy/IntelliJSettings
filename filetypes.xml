@@ -16,6 +16,7 @@
       <mapping pattern="test_no_working" type="JSON" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="python" type="PLAIN_TEXT" />
+      <mapping ext="new" type="YAML" />
       <mapping ext="neon" type="YAML" />
     </extensionMap>
   </component>
