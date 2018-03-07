@@ -18,6 +18,7 @@
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping ext="new" type="YAML" />
       <mapping ext="neon" type="YAML" />
+      <mapping pattern="htaccess_staging" type="htaccess" />
     </extensionMap>
   </component>
 </application>
