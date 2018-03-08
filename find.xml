@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>*T</mask>
       <mask>*Typ</mask>
       <mask>*Type</mask>
       <mask>*Type.</mask>
@@ -34,6 +34,7 @@
       <mask>*.xlf</mask>
       <mask>*.php</mask>
       <mask>*.twig</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
