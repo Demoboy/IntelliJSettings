@@ -3,41 +3,18 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*Typ</mask>
-      <mask>*Type</mask>
-      <mask>*Type.</mask>
-      <mask>*T.php</mask>
-      <mask>*Ty.php</mask>
-      <mask>*Type.php</mask>
-      <mask>*Type.p!hp</mask>
-      <mask>*Type.p!*hp</mask>
-      <mask>*Type.p!*.hp</mask>
-      <mask>*Type.p!*.ndhp</mask>
-      <mask>*Type.p!*.nhp</mask>
-      <mask>hp</mask>
-      <mask>h</mask>
-      <mask>!</mask>
-      <mask>!*</mask>
-      <mask>!*.</mask>
-      <mask>!*.md</mask>
-      <mask>.</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xlf~</mask>
-      <mask>*.xlff</mask>
-      <mask>*.xlif</mask>
-      <mask>*.xli</mask>
-      <mask>*.xl</mask>
-      <mask>*.xlf</mask>
-      <mask>*.php</mask>
-      <mask>*.twig</mask>
-      <mask>*.css</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*.twig</mask>
   </component>
 </application>

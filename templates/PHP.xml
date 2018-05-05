@@ -1,0 +1,14 @@
+<templateSet group="PHP">
+  <template name="tryc" value="try {&#10;    $SELECTION$&#10;} catch ($EXECPTION_CLASS$ as $VAR_EXPECTION$) {&#10;    $END$&#10;}" description="Try catch statement" toReformat="false" toShortenFQNames="true">
+    <variable name="EXECPTION_CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_EXPECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="sql" value="$this-&gt;addSql('$SELECTION$');" description="Converts a sql string into a doctrine migration string" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>
