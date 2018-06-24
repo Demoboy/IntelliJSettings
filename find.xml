@@ -16,5 +16,6 @@
     <mask>*.twig</mask>
     <mask>*default*</mask>
     <mask>*Command.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>

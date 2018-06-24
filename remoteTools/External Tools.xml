@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="PHP CS Fixer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT">
+  <tool name="PHP CS Fixer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEFAULT_SDK">
     <exec>
       <option name="COMMAND" value="vendor/friendsofphp/php-cs-fixer/php-cs-fixer" />
       <option name="PARAMETERS" value="fix $UnixSeparators$$FileDirRelativeToProjectRoot$ --config .php_cs.dist" />
