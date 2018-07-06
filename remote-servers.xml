@@ -3,11 +3,14 @@
     <remote-server name="Docker Linux" type="docker">
       <configuration>
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
-        <option name="certificatesPath" />
         <option name="pathMappings">
           <list>
             <DockerPathMappingImpl>
               <option name="localPath" value="C:\Users\Kaelin\Dropbox\Websites\caa" />
+              <option name="virtualMachinePath" value="/var/www/site" />
+            </DockerPathMappingImpl>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="C:\Users\Kaelin\Dropbox\Websites\reviveit" />
               <option name="virtualMachinePath" value="/var/www/site" />
             </DockerPathMappingImpl>
           </list>
