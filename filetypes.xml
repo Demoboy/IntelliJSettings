@@ -8,7 +8,6 @@
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping ext="yml___jb_old___" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="fdf" type="PLAIN_TEXT" />
       <mapping ext="neon" type="YAML" />
       <mapping ext="new" type="YAML" />
