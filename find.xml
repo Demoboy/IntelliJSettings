@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\AppBundle\Packaging\Packaging.php [reviveit_web]'" />
-    <option name="defaultScopeName" value="File '...\src\AppBundle\Packaging\Packaging.php [reviveit_web]'" />
+    <option name="customScope" value="Directory '...\src [reviveit_web]'" />
+    <option name="defaultScopeName" value="Directory '...\src [reviveit_web]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\src\AppBundle\Packaging\Packaging.php [reviveit_web]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\src [reviveit_web]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
