@@ -20,5 +20,6 @@
     <mask>*Repository.php</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
