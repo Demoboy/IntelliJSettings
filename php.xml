@@ -1,5 +1,6 @@
 <application>
   <component name="MessDetector">
+    <phpmd_settings_migrated />
     <phpmd_settings>
       <phpmd_by_interpreter interpreter_id="fd8f5e30-b90c-4b96-a783-2b5e6c73812c" tool_path="/home/vagrant/.config/composer/vendor/bin/phpmd" />
       <phpmd_by_interpreter interpreter_id="79645860-25a2-4467-b88f-4f4eeff3eb36" tool_path="/home/vagrant/.config/composer/vendor/bin/phpmd" />
@@ -7,6 +8,7 @@
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
       <PhpCSConfiguration max_messages_per_file="100" timeout="30000" />
       <phpcs_by_interpreter interpreter_id="fd8f5e30-b90c-4b96-a783-2b5e6c73812c" standards="MySource;PEAR;PSR1;PSR2;Squiz;Symfony;Zend" tool_path="/home/vagrant/.config/composer/vendor/bin/phpcs" />
