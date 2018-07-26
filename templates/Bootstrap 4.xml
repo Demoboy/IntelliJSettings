@@ -17,6 +17,5 @@
     <variable name="15" expression="&quot;Action 2&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="16" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="17" expression="&quot;Search&quot;" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
