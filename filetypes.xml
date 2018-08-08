@@ -16,6 +16,7 @@
       <mapping pattern="test" type="JSON" />
       <mapping pattern="test_no_working" type="JSON" />
       <mapping pattern=".php_cs.dist" type="PHP" />
+      <mapping pattern="composer/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.docker" type="PLAIN_TEXT" />
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping ext="yml___jb_old___" type="PLAIN_TEXT" />
