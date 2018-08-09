@@ -3,26 +3,28 @@
     <extensionMap>
       <mapping pattern=".env.dist" type=".env file" />
       <mapping pattern="phpstan" type="Bash" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping pattern="run_build" type="Bash" />
       <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="test" type="JSON" />
       <mapping pattern="test_no_working" type="JSON" />
       <mapping pattern=".php_cs.dist" type="PHP" />
+      <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping pattern="composer/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.docker" type="PLAIN_TEXT" />
-      <mapping pattern="python" type="PLAIN_TEXT" />
-      <mapping ext="yml___jb_old___" type="PLAIN_TEXT" />
+      <mapping pattern=".env_prod" type="PLAIN_TEXT" />
       <mapping ext="fdf" type="PLAIN_TEXT" />
-      <mapping ext="new" type="YAML" />
+      <mapping ext="yml___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="neon" type="YAML" />
+      <mapping ext="new" type="YAML" />
       <mapping pattern="htaccess_staging" type="htaccess" />
     </extensionMap>
   </component>
