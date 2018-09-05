@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="docker-compose" />
       <option name="PARAMETERS" value="-f docker-compose.core.yml build" />
-      <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
