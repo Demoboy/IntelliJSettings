@@ -3,7 +3,14 @@
     <exec>
       <option name="COMMAND" value="docker-compose" />
       <option name="PARAMETERS" value="-f docker-compose.core.yml build" />
-      <option name="WORKING_DIRECTORY" value="C:/Users/Kaelin/Dropbox/Websites/reviveit" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Docker sync" description="Runs docker-sync on mac to improve file system access" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="docker-sync" />
+      <option name="PARAMETERS" value="start" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
