@@ -21,6 +21,7 @@
       <mapping pattern="composer/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.docker" type="PLAIN_TEXT" />
       <mapping pattern=".env_prod" type="PLAIN_TEXT" />
+      <mapping pattern="wkhtmltopdf" type="PLAIN_TEXT" />
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="rsync/Dockerfile" type="PLAIN_TEXT" />
