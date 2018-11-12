@@ -25,6 +25,7 @@
       <mapping pattern="upload-fg-build" type="PLAIN_TEXT" />
       <mapping pattern="python" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="rsync/Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="hcl" type="PLAIN_TEXT" />
