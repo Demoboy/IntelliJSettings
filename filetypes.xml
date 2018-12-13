@@ -13,6 +13,7 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="core" type="PLAIN_TEXT" />
+      <mapping ext="base64" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
