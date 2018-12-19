@@ -1,0 +1,14 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance baseUri="https://bitbucket.reviveit.io:443/" />
+    </instances>
+    <lookup>
+      <record scheme="https" hostname="bitbucket.reviveit.io" port="-1" path="/" uuid="22dc07b4-f1f2-305d-a9ac-05f3dc51231e" />
+    </lookup>
+  </component>
+  <component name="Instance" id="62e1956f-3d5c-49f4-aa9c-9eb536cefe3b" />
+</application>
