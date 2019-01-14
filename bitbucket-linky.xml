@@ -4,7 +4,7 @@
   </component>
   <component name="BitbucketServerRegistry">
     <instances>
-      <instance baseUri="https://bitbucket.reviveit.io:443/" />
+      <instance uuid="22dc07b4-f1f2-305d-a9ac-05f3dc51231e" baseUri="https://bitbucket.reviveit.io:443/" />
     </instances>
     <lookup>
       <record scheme="https" hostname="bitbucket.reviveit.io" port="-1" path="/" uuid="22dc07b4-f1f2-305d-a9ac-05f3dc51231e" />
@@ -82,6 +82,15 @@
       <attribute name="bitbucket">server</attribute>
     </event>
     <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-08T21:41:04.297Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-14T17:41:07.654Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-14T17:41:27.464Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-14T17:41:42.210Z">
       <attribute name="bitbucket">server</attribute>
     </event>
   </component>
