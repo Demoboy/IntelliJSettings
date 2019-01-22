@@ -12,6 +12,7 @@
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="sess_0c4be60f79c310a84f3aa5a2396856db" type="PLAIN_TEXT" />
       <mapping pattern="core" type="PLAIN_TEXT" />
       <mapping pattern="report" type="PLAIN_TEXT" />
       <mapping ext="base64" type="PLAIN_TEXT" />
