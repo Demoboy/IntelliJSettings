@@ -128,5 +128,8 @@
     <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-28T18:34:42.944Z">
       <attribute name="bitbucket">cloud</attribute>
     </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-28T18:49:00.224Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
   </component>
 </application>
