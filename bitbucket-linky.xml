@@ -6,10 +6,12 @@
   </component>
   <component name="BitbucketServerRegistry">
     <instances>
+      <instance uuid="ef01539d-94c3-307f-94b9-ee4c9268717f" baseUri="https://bitbucket.reviveit.io/" />
       <instance uuid="22dc07b4-f1f2-305d-a9ac-05f3dc51231e" baseUri="https://bitbucket.reviveit.io:443/" />
     </instances>
     <lookup>
       <record scheme="https" hostname="bitbucket.reviveit.io" port="-1" path="/" uuid="22dc07b4-f1f2-305d-a9ac-05f3dc51231e" />
+      <record scheme="ssh" hostname="bitbucket.reviveit.io" port="7999" path="/" uuid="ef01539d-94c3-307f-94b9-ee4c9268717f" />
     </lookup>
   </component>
   <component name="Instance" id="62e1956f-3d5c-49f4-aa9c-9eb536cefe3b" />
