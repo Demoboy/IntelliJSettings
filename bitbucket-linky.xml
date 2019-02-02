@@ -1,10 +1,12 @@
 <application>
   <component name="BitbucketCloudRegistry">
-    <lookup />
+    <lookup>
+      <record scheme="ssh" hostname="bitbucket.org" port="-1" instance="Production" />
+    </lookup>
   </component>
   <component name="BitbucketServerRegistry">
     <instances>
-      <instance baseUri="https://bitbucket.reviveit.io:443/" />
+      <instance uuid="22dc07b4-f1f2-305d-a9ac-05f3dc51231e" baseUri="https://bitbucket.reviveit.io:443/" />
     </instances>
     <lookup>
       <record scheme="https" hostname="bitbucket.reviveit.io" port="-1" path="/" uuid="22dc07b4-f1f2-305d-a9ac-05f3dc51231e" />
@@ -83,6 +85,51 @@
     </event>
     <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-08T21:41:04.297Z">
       <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-14T17:41:07.654Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-14T17:41:27.464Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-14T17:41:42.210Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-15T22:26:02.981Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-15T22:26:14.632Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-15T22:26:25.646Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-16T20:51:44.101Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-16T20:52:13.728Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-16T21:55:06.327Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-16T21:55:17.684Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-17T14:46:34.962Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-17T22:55:05.870Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-22T22:23:22.514Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-28T18:34:42.944Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-01-28T18:49:00.224Z">
+      <attribute name="bitbucket">cloud</attribute>
     </event>
   </component>
 </application>
