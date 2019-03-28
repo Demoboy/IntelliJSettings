@@ -1,6 +1,5 @@
 <templateSet group="Twig">
   <template name="blk" value="{% block $NAME$ %}&#10;    $END$&#10;{% endblock $NAME$ %}&#10;" description="block...endblock" toReformat="true" toShortenFQNames="false">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
