@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\crud-bundle\src\Handler\EnableDisableActionHandler.php [crud]'" />
-    <option name="defaultScopeName" value="File '...\crud-bundle\src\Handler\EnableDisableActionHandler.php [crud]'" />
-    <option name="SEARCH_SCOPE" value="File '...\crud-bundle\src\Handler\EnableDisableActionHandler.php [crud]'" />
+    <option name="customScope" value="Directory '...\crud-bundle [crud]'" />
+    <option name="defaultScopeName" value="Directory '...\crud-bundle [crud]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\crud-bundle [crud]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
