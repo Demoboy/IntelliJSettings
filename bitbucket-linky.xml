@@ -14,5 +14,5 @@
       <record scheme="ssh" hostname="bitbucket.reviveit.io" port="7999" path="/" uuid="22dc07b4-f1f2-305d-a9ac-05f3dc51231e" />
     </lookup>
   </component>
-  <component name="Instance" id="62e1956f-3d5c-49f4-aa9c-9eb536cefe3b" version="7.1" />
+  <component name="Instance" id="62e1956f-3d5c-49f4-aa9c-9eb536cefe3b" version="7.2" />
 </application>
