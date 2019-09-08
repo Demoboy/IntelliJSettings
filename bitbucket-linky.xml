@@ -15,12 +15,4 @@
     </lookup>
   </component>
   <component name="Instance" id="62e1956f-3d5c-49f4-aa9c-9eb536cefe3b" version="7.4" />
-  <component name="UsageLog">
-    <event name="CopyLinkToFile" place="ProjectViewPopup" timestamp="2019-09-08T21:46:06.299261300Z">
-      <attribute name="editor">false</attribute>
-      <attribute name="multipleLines">false</attribute>
-      <attribute name="multipleCarets">false</attribute>
-      <attribute name="bitbucket">server</attribute>
-    </event>
-  </component>
 </application>
