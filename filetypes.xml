@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile.prod" type="Dockerfile" />
+      <mapping pattern="logfile" type="PLAIN_TEXT" />
       <mapping pattern="sess_0c4be60f79c310a84f3aa5a2396856db" type="PLAIN_TEXT" />
       <mapping pattern="core" type="PLAIN_TEXT" />
       <mapping pattern="report" type="PLAIN_TEXT" />
